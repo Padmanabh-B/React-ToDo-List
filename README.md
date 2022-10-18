@@ -20,7 +20,7 @@ __all the todo/tasks information is strored in localstorage__
 
 ### How to Download this project
 ```
-
+https://github.com/Padmanabh-B/React-ToDo-List.git
 ```
 
  -> Go to Folder
